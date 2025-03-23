@@ -1,0 +1,2 @@
+name,features,accuracy,precision,recall,f1,parameters
+Regresión Logística,"['goals', 'assists', 'goals_per_match', 'assists_per_match', 'yellowCards', 'redCards', 'matches_played']",1.0,1.0,1.0,1.0,"{'C': 0.1, 'class_weight': None, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': 42, 'solver': 'liblinear', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}"
